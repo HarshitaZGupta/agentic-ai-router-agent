@@ -39,3 +39,5 @@ Clone the repository and install required packages:
 
 ```bash
 pip install openai pandas python-dotenv arize-phoenix openinference-instrumentation-openai
+
+🔗 **Live Demo:** https://merry-sable-0193c0.netlify.app
