@@ -29,6 +29,7 @@ This project demonstrates Level 1 (Action Autonomy) in the AI Autonomy Ladder. T
 * Data Processing: Pandas, Dataclasses, Enums
 * Environment: Google Colab / Jupyter Notebook
 
+🔗 **Live Demo:** https://merry-sable-0193c0.netlify.app
 ---
 
 ## 🚀 Getting Started
@@ -39,7 +40,3 @@ Clone the repository and install required packages:
 
 ```bash
 pip install openai pandas python-dotenv arize-phoenix openinference-instrumentation-openai
-
-
-
-🔗 **Live Demo:** https://merry-sable-0193c0.netlify.app
